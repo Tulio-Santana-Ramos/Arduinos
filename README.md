@@ -4,7 +4,6 @@ Repositório destinado ao trabalho de comunicação entre arduínos Unos para a 
 ## Integrantes:
 - XXXXXXXX &nbsp; Amanda de Moura Peres
 - 11796531 &nbsp; Israel Felipe da Silva
-- 11796893 &nbsp; Luiz Fernando Rabelo
 - 11795526 &nbsp; Tulio Santana Ramos
 
 ### Confecção
