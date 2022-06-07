@@ -2,7 +2,7 @@
 Repositório destinado ao trabalho de comunicação entre arduínos Unos para a disciplina de Redes de Computadores SSC0142 2022/01
 
 ## Integrantes:
-- XXXXXXXX &nbsp; Amanda de Moura Peres
+- 10734522 &nbsp; Amanda de Moura Peres
 - 11796531 &nbsp; Israel Felipe da Silva
 - 11795526 &nbsp; Tulio Santana Ramos
 
