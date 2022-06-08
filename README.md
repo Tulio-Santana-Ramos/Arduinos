@@ -12,5 +12,5 @@ Nosso grupo configurou o programa de forma a ser um Emissor que utiliza Paridade
 No [Serial.ino](https://github.com/Tulio-Santana-Ramos/Arduinos/blob/main/Serial.ino) configuramos o arduíno para variar entre 4 possíveis estados, sendo eles: **WaitingForData**, **WaitingForCTS**, **WaitingEndTrasmission** e **Transmitting**. Consistem, respectivamente, na espera por um byte pela *Serial* (*CTRL + SHIFT + M* na [Arduino IDE](https://www.arduino.cc/en/software)), na espera da ativação do **CTS** (por parte do receptor), no reconhecimento de final de transmissão (Ao receptor setar o **CTS** para **LOW**) e no efetivo envio de bits.
 
 ### Vídeo
-Infelizmente, uma de nossas [integrantes](#integrantes) não pode participar das gravações pois contraiu a COVID-19.
-Um vídeo para demonstrar a comunicação entre dois sistemas Arduino Uno (nosso grupo e um grupo receptor de paridade par) está disponível [aqui](https://github.com)
+Infelizmente, uma de nossas integrantes não pode participar das gravações pois contraiu a COVID-19.
+Um vídeo para demonstrar a comunicação entre dois sistemas Arduino Uno (nosso grupo e um grupo receptor de paridade par) está disponível [aqui](https://drive.google.com/file/d/1t9GzMp9Ia9Z0nsYJRc2zZJay21RB70KG/view?usp=sharing)
